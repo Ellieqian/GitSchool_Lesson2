@@ -221,7 +221,6 @@ rename *v2 *
 drop *QZ
 
 
-capture label var hh_location_ladder	"Location of house on wealth ladder: 1 = poorest, 10 = wealthiest"
 
 ***************************************************************************************************
 ********************************* COUNTRY SPECIFIC WEIGHT GENERATION *********************************
